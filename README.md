@@ -20,12 +20,14 @@ Here are some ideas to get you started:
 
 ### 🛠 &nbsp;Tech Stack
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)\
-![Rust](https://img.shields.io/badge/-Rust-05122A?style=flat&logo=rust&logoColor=1572B6)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat&logo=typescript)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)\
+![Node](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js&logoColor=43853D)&nbsp;
+![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=14354C)&nbsp;
+![Rust](https://img.shields.io/badge/-Rust-black?style=flat&logo=rust&logoColor=1572B6)&nbsp;
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=C%2B%2B&logoColor=00599C)
 
 ### ⚙️ &nbsp;GitHub Analytics
 
