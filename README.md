@@ -32,8 +32,3 @@ Here are some ideas to get you started:
 ### ⚙️ &nbsp;GitHub Analytics
 
 ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=zongzi531&layout=compact&theme=dracula)
-
-### 🤝🏻 &nbsp;Connect with Me
-
-<a href="https://zongzi531.com"><img src="https://img.shields.io/badge/-zongzi531.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="mailto:zongzi.xy@gmail.com"><img src="https://img.shields.io/badge/-zongzi.xy@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
